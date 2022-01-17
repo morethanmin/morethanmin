@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Currently ongoing projects
+## Currently Ongoing projects
 
 - [Int'ly](https://intly.oopy.io)
 - [Until](https://github.com/untilled)
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - Algorithm
 - Typescript
-- Javascript
+- Deep Javascript
 - React 18
 
 ## What I'll learn in the future
@@ -36,10 +36,11 @@ Here are some ideas to get you started:
 - React testing library
 - Swr
 - React query
+- Blockchain
 
 ## Skills
 
-React, Redux, Redux-toolkit, Redux-saga, Redux-thunk, Next.js, Vue, Nuxt.js Typescript, Javascript, Sass, Styled-component, Node.js, Webpack, Babel, Express, Python, Django, Firebase, AWS, Nginx, Pm2, Docker, MySQL, PostgreSQL, Oracle
+Next.js, React, Redux, Redux-toolkit, Redux-saga, Redux-thunk, Vue, Nuxt.js Typescript, Javascript, Sass, Styled-component, Node.js, Webpack, Babel, Express, Python, Django, Firebase, AWS, Nginx, Pm2, Docker, MySQL, PostgreSQL, Oracle, Git, SVN, VB.NET
 
 ## If you want to know about me...
 
