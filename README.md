@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me
-
-Check This [Link](https://morethanmin.web.app/).
-
 ## 현재 진행중인 프로젝트
 
 - [Int'ly](https://intly.oopy.io)
@@ -39,3 +35,7 @@ Check This [Link](https://morethanmin.web.app/).
 
 - GraphQL
 - React testing library
+
+## About Me
+
+Check This [Link](https://morethanmin.web.app/).
