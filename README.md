@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Currently Ongoing projects
+## Currently ongoing projects
 
 - [Int'ly](https://intly.oopy.io)
 - [Until](https://github.com/untilled)
