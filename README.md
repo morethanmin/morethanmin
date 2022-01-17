@@ -30,12 +30,13 @@ Here are some ideas to get you started:
 - Deep Javascript
 - React 18
 
-## What I'll learn in the future
+## What I'll learn in the future (maybe...)
 
 - GraphQL
 - React testing library
-- Swr
 - React query
+- SWR
+- Svelte
 - Blockchain
 
 ## Skills
