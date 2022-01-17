@@ -11,7 +11,7 @@
 
 ## What I'm currently learning
 
-- Algorithm
+- PS & Algorithm
 - Typescript
 - Deep Javascript
 - React 18
@@ -27,7 +27,7 @@
 
 ## Skills
 
-Next.js, React, Redux, Redux-toolkit, Redux-saga, Redux-thunk, Vue, Nuxt.js Typescript, Javascript, Sass, Styled-component, Node.js, Webpack, Babel, Express, Python, Django, Firebase, AWS, Nginx, Pm2, Docker, MySQL, PostgreSQL, Oracle, Git, SVN, VB.NET
+**Next.js**, **React**, **Redux**, Redux-toolkit, **Redux-saga**, Redux-thunk, Vue, **Nuxt.js** Typescript, Javascript, **Sass**, Styled-component, **Node.js**, Webpack, Babel, Express, Python, Django, Firebase, AWS, Nginx, Pm2, **Docker**, MySQL, PostgreSQL, Oracle, **Git**, SVN, VB.NET
 
 ## If you want to know about me...
 
