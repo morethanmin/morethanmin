@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - [Int'ly](https://intly.oopy.io)
 - [Until](https://github.com/untilled)
 
-## 현재 참여중인 개발팀
+## 현재 참여중인 개발 팀
 
 - [ZEXT](https://github.com/ZZEXT)
 - [Untilled](https://github.com/untilled)
@@ -36,6 +36,11 @@ Here are some ideas to get you started:
 - GraphQL
 - React testing library
 
+## 다뤄 본 기술
+
+React, Redux, Redux-toolkit, Redux-saga, Redux-thunk, Next.js, Vue, Nuxt.js Typescript, Javascript, Sass, Styled-component, Node.js, Webpack, Babel, Express, Python, Django, Firebase, AWS, Nginx, Pm2, Docker, MySQL, PostgreSQL, Oracle
+
 ## About Me
 
 Check This [Link](https://morethanmin.web.app/).
+
