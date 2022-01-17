@@ -13,34 +13,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## 현재 진행중인 프로젝트
+## Currently Ongoing projects
 
 - [Int'ly](https://intly.oopy.io)
 - [Until](https://github.com/untilled)
 
-## 현재 참여중인 개발 팀
+## Currently participating teams
 
 - [ZEXT](https://github.com/ZZEXT)
 - [Untilled](https://github.com/untilled)
 
-## 현재 공부중인 것들
+## What I'm currently learning
 
 - Algorithm
 - Typescript
 - Javascript
 - React 18
 
-## 미래에 공부할 것들
+## What I'll learn in the future
 
 - GraphQL
 - React testing library
+- Swr
+- React query
 
-## 다뤄 본 기술
+## Skills
 
 React, Redux, Redux-toolkit, Redux-saga, Redux-thunk, Next.js, Vue, Nuxt.js Typescript, Javascript, Sass, Styled-component, Node.js, Webpack, Babel, Express, Python, Django, Firebase, AWS, Nginx, Pm2, Docker, MySQL, PostgreSQL, Oracle
 
-## About Me
+## If you want to know about me...
 
 Check This [Link](https://morethanmin.web.app/).
-
