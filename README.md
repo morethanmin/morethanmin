@@ -1,4 +1,4 @@
-## Currently Ongoing projects
+## Project in progress
 
 - [Int'ly](https://intly.oopy.io)
 - [Until](https://github.com/untilled)
