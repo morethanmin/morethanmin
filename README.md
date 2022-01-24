@@ -12,9 +12,8 @@
 ## What I'm currently learning
 
 - [PS & Algorithm](https://github.com/morethanmin/study-algorithm)
-- Typescript
-- Deep Javascript
-- React 18
+- [Typescript](https://www.typescriptlang.org/ko/docs)
+- [Deep Javascript](https://ko.javascript.info)
 
 ## What I'll learn in the future (maybe...)
 
