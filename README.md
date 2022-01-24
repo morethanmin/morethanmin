@@ -17,9 +17,10 @@
 
 ## What I'll learn in the future (maybe...)
 
-- GraphQL
+- React 18
 - React testing library
 - React query
+- GraphQL
 - SWR
 - Svelte
 - Blockchain
