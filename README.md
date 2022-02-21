@@ -13,7 +13,10 @@
 
 - [PS & Algorithm](https://github.com/morethanmin/study-algorithm)
 - [Typescript](https://www.typescriptlang.org/ko/docs)
+- [Recoil](https://recoiljs.org/docs/introduction/motivation/)
 - [Deep Javascript](https://ko.javascript.info)
+- [Storybook](https://storybook.js.org/docs/react/get-started/introduction)
+- Yarn berry
 
 ## What I'll learn in the future (maybe...)
 
