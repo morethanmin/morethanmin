@@ -14,8 +14,10 @@
 - [PS & Algorithm](https://github.com/morethanmin/study-algorithm)
 - [Typescript](https://www.typescriptlang.org/ko/docs)
 - [Recoil](https://recoiljs.org/docs/introduction/motivation/)
-- [Deep Javascript](https://ko.javascript.info)
+- [Emotion](https://emotion.sh/docs/introduction)
+- [Jest](https://jestjs.io/)
 - [Storybook](https://storybook.js.org/docs/react/get-started/introduction)
+
 ## What I'll learn in the future (maybe...)
 
 - React 18
