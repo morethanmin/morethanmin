@@ -16,7 +16,6 @@
 - [Recoil](https://recoiljs.org/docs/introduction/motivation/)
 - [Emotion](https://emotion.sh/docs/introduction)
 - [Jest](https://jestjs.io/)
-- [Storybook](https://storybook.js.org/docs/react/get-started/introduction)
 
 ## What I'll learn in the future (maybe...)
 
@@ -28,6 +27,7 @@
 - Svelte
 - Blockchain
 - Yarn berry
+- Storybook
 
 
 ## Skills
