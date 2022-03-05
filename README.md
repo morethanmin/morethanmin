@@ -20,7 +20,7 @@
 ## What I'll learn in the future (maybe...)
 
 - React 18
-- flow
+- Flow
 - React testing library
 - React query
 - GraphQL
