@@ -1,13 +1,12 @@
 ## Project in progress
 
-- [Int'ly](https://intly.oopy.io)
+- Int'ly
 - [Until](https://github.com/untilled)
 
 ## Currently participating teams
 
 - [ZEXT](https://github.com/ZZEXT)
 - [Untilled](https://github.com/untilled)
-- [Doong-Ji](https://github.com/Doong-Ji)
 
 ## What I'm currently learning
 
