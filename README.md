@@ -1,6 +1,6 @@
 ## Project in progress
 
-- Int'ly
+- [Int'ly](https://github.com/ZZEXT)
 - [Until](https://github.com/untilled)
 
 ## Currently participating teams
