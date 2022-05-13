@@ -13,23 +13,22 @@
 - [PS & Algorithm](https://github.com/morethanmin/study-algorithm)
 - [Typescript](https://www.typescriptlang.org/ko/docs)
 - [Recoil](https://recoiljs.org/docs/introduction/motivation/)
-- Redux-toolkit
 - React-query
+- Redux-toolkit
 - [Emotion](https://emotion.sh/docs/introduction)
 
 
 ## What I'll learn in the future (maybe...)
 
-- React 18
 - Flow
 - React testing library
-- React query
 - GraphQL
 - SWR
 - Svelte
 - Blockchain
 - Yarn berry
 - Storybook
+- Jest
 
 
 ## Skills
