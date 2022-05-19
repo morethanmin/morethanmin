@@ -14,7 +14,7 @@
 - [Typescript](https://www.typescriptlang.org/ko/docs)
 - [Recoil](https://recoiljs.org/docs/introduction/motivation/)
 - React-query
-- Redux-toolkit
+- [Redux-toolkit](https://redux-toolkit.js.org/)
 - [Emotion](https://emotion.sh/docs/introduction)
 
 
