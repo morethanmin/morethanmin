@@ -29,6 +29,8 @@
 - Yarn berry
 - Storybook
 - Jest
+- Gatsby
+- Figma
 
 
 ## Skills
