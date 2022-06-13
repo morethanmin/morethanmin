@@ -35,8 +35,7 @@
 
 ## Skills
 
-**`React`**, **`Redux`**, Redux-toolkit, **`Redux-saga`**, Redux-thunk, **`Recoil`**, **`Next.js`**, **`Vue`**, **`Nuxt.js`** **`Typescript`**, **`Javascript`**, **`Sass`**, Styled-component, Emotion, **`Node.js`**, Webpack, Babel, ESLint, Prettier, Express, Python, Django, Firebase, AWS, Nginx, Pm2, **`Docker`**, mySQL, PostgreS
-QL, Notion, Jira, Slack
+**`React`**, **`Redux`**, Redux-toolkit, **`Redux-saga`**, Redux-thunk, **`Recoil`**, **`Next.js`**, **`Vue`**, **`Nuxt.js`** **`Typescript`**, **`Javascript`**, **`Sass`**, Styled-component, Emotion, **`Node.js`**, Webpack, Babel, ESLint, Prettier, Express, Python, Django, Firebase, AWS, Nginx, Pm2, **`Docker`**, mySQL, PostgreSQL, Notion, Jira, Slack
 
 ## If you want to know about me...
 
